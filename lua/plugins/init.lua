@@ -24,10 +24,15 @@ return {
         "html-lsp",
         "css-lsp",
         "pyright",
-
+        "ruff",
+        -- Linter
+        "mypy",
         -- Formatter
         "stylua",
         "prettier",
+        "black",
+        -- Debugging
+        "debugpy",
       },
     },
   },
