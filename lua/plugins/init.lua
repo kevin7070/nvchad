@@ -30,7 +30,6 @@ return {
         -- Formatter
         "stylua",
         "prettier",
-        "black",
         -- Debugging
         "debugpy",
       },
